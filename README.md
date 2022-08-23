@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal is to creat a webpage that displays topics that are covered in the prework, with a quick set of notes on HTML, CSS, git, and JavaScript.
+This is a webpage that displays topics that are covered in the prework, with a quick set of notes on HTML, CSS, git, and JavaScript.
 
 ## Installation
 
